@@ -26,3 +26,7 @@ A Slack bot made with a passion for oranges. It was created for stardance missio
 | ---------------    | --------------------------                   |
 | The Cat fact API   | https://api.thecatapi.com/                   |
 | Official Joke API  | https://github.com/15Dkatz/official_joke_api |
+
+***
+
+I would also like to mention that all the code is from the official stardance guide. No ai was used for this project!
