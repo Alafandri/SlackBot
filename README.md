@@ -3,12 +3,6 @@ A Slack bot made with a passion for oranges. It was created for stardance missio
 
 ***
 
-### Features
-* /orangebot-ping
-* /orangebot-help
-* /orangebot-joke
-* /orangebot-catfact
-
 ## Commands
 
 | Command      | Description                                                   |
