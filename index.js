@@ -9,7 +9,7 @@ const app = new App({
   appToken: process.env.SLACK_APP_TOKEN,
   socketMode: true
 });
-
+// all code is from the tutorial with some of my slight modifications. No ai was used!
 app.command("/orangebot-ping", async ({ command, ack, respond }) => {
   const start = Date.now();
   await ack();
